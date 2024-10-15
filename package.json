@@ -1,0 +1,31 @@
+{
+  "name": "api-enfermeria",
+  "version": "1.0.0",
+  "description": "API para la gestión de enfermeros, usuarios y ofertas para un servicio de enfermería",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js",
+    "dev": "nodemon serve.js"
+  },
+  "keywords": [
+    "api",
+    "enfermeria",
+    "usuarios",
+    "enfermeros",
+    "ofertas"
+  ],
+  "author": "Alejandro",
+  "license": "ISC",
+  "dependencies": {
+    "api-enfermeria": "file:",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

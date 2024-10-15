@@ -1,0 +1,48 @@
+[
+    {
+      "id": "1",
+      "nombre": "María López",
+      "especialidad": "Cuidados intensivos",
+      "email": "maria.lopez@example.com",
+      "password": "maria1234",
+      "telefono": "555-4321",
+      "direccion": "Av. Siempre Viva 456, Ciudad",
+      "tarifa_dia": 300,
+      "calificacion": 4.8,
+      "experiencia": "10 años en unidades de cuidados intensivos y postoperatorios",
+      "ciudad": "Ciudad",
+      "comentarios": [
+        {
+          "cliente": "Juan Pérez",
+          "comentario": "Excelente servicio, muy profesional.",
+          "fecha": "2023-10-01"
+        },
+        {
+          "cliente": "Ana García",
+          "comentario": "Atenta y muy bien capacitada.",
+          "fecha": "2023-09-20"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "nombre": "Juan Pérez",
+      "especialidad": "Geriatría",
+      "email": "juan.perez@example.com",
+      "password": "juan5678",
+      "telefono": "555-8765",
+      "direccion": "Calle Principal 123, Ciudad",
+      "tarifa_dia": 250,
+      "calificacion": 4.6,
+      "experiencia": "5 años en atención domiciliaria de pacientes geriátricos",
+      "ciudad": "Ciudad",
+      "comentarios": [
+        {
+          "cliente": "María Rodríguez",
+          "comentario": "Buen trato con mi abuelo, muy paciente.",
+          "fecha": "2023-08-10"
+        }
+      ]
+    }
+  ]
+  

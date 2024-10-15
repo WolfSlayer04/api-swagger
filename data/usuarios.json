@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "nombre": "Juan Pérez",
+    "email": "juan.perez@example.com",
+    "password": "hola",
+    "telefono": "555-1234",
+    "direccion": "Calle Falsa 123, Ciudad",
+    "rol": "cliente"
+  },
+  {
+    "id": "3",
+    "nombre": "Alejandro Son Goku",
+    "email": "bulma@gmail.com",
+    "password": "hola",
+    "telefono": "555-5678",
+    "direccion": "Calle Verdadera 456, Ciudad",
+    "rol": "enfermero"
+  },
+  {
+    "id": "4",
+    "nombre": "Arellano Alejandro",
+    "email": "goku@example.com",
+    "password": "hola",
+    "telefono": "555-5678",
+    "direccion": "Calle Verdadera 456, Ciudad",
+    "rol": "enfermero"
+  },
+  {
+    "id": "5",
+    "nombre": "Gloria Arellano",
+    "email": "goku@example.com",
+    "password": "hola",
+    "telefono": "555-5678",
+    "direccion": "Calle Verdadera 456, Ciudad",
+    "rol": "cliente"
+  }
+]
