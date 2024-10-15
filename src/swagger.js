@@ -13,8 +13,8 @@ const swaggerDefinition = {
   },
   servers: [
     {
-      url: 'http://localhost:3000', // Cambia la URL si usas otro puerto
-      description: 'Servidor local',
+      url: 'https://api-enfse-1.onrender.com', // Cambia la URL si usas otro puerto
+      description: 'Servidor',
     },
   ],
 };
